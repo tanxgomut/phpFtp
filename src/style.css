@@ -1,0 +1,63 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200;300;400&display=swap'); */
+/* @import 'https://fonts.googleapis.com/css?family=Kanit|Prompt';
+body {
+    font-family: 'Kanit', sans-serif;
+} */
+
+.hoverItems:hover{
+    color: #0d6efd;
+    background-color: #e9ecef;
+    border-radius: 4px;
+}
+
+.bg-login{
+    background: rgb(103,24,101);
+    background: linear-gradient(90deg, rgba(103,24,101,1) 0%, rgba(103,24,101,1) 2%, rgba(33,17,155,1) 61%, rgba(0,212,255,1) 100%);
+}
+
+.icon-size {
+    width: 20px;
+    height: 20px;
+}
+
+.img-update {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 10%;
+}
+
+.admin-list-pages{
+    height: 40px;
+    font-size: 18px;
+}
+
+.text-main{
+    color: rgb(12, 12, 126);
+}
+
+.type-doc{
+    width: 100%;
+    color: #dc3545;
+    text-align: center;
+    padding: 0px 3px;
+    border-radius: 10px;
+    background-color: lightpink;
+    padding: 0px 6px;
+}
+
+.type-img{
+    width: 100%;
+    color: #0d6efd;
+    text-align: center;
+    padding: 0px 3px;
+    border-radius: 10px;
+    background-color: lavender;
+    padding: 0px 6px;
+}
+
+.table-dashboard{
+    border: 1px solid darkgray;
+    border-radius: 10px;
+}
